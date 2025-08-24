@@ -1,0 +1,8 @@
+# Ignore txt files
+*.txt
+
+# Ignore csv files
+*.csv
+
+# Ignore misc
+\venv
